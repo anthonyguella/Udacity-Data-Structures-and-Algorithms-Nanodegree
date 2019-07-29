@@ -1,0 +1,29 @@
+Anthony Guella
+Unscramble Computer Science Problems
+
+** Task0.py **
+Time Complexity: O(1)
+Description: Input does not affect run time
+
+
+** Task1.py **
+Time Complexity: O(n)
+Description: Two lists are looped through once each. O(2n) -> O(n)
+
+
+** Task2.py **
+Time Complexity: O(n)
+Description: List is looped through once
+
+
+** Task3.py **
+Time Complexity: O(n+nlogn)
+Description: For loop and python sort
+
+
+** Task4.py **
+Time Complexity: O(n+nlogn)
+Description: For loop and python sort
+
+
+
